@@ -32,5 +32,6 @@ We will display the results of each model in a table, showing the accuracy, prec
 
 In this project, we explored different methods of representing text data and compared the performance of different classification models for financial sentiment analysis. We found that TF-IDF with randomforest gives best results, followed by Max word2vec, doc2vec and average word2vec
 
-##Future work
+## Future work
+
 Concerning the future scope of the project, an argument can be made that these results can be improved using artificial neural networks such as Convolution neural networks(CNNs) and Transformers, as CNNs can capture local semantics and relationships between consecutive words and Transformers use a self-attention system to capture the relationships between all input tokens at the same time, allowing them to model long-term dependencies and effectively collect contextual information.
